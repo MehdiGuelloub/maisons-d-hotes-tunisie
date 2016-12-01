@@ -1,0 +1,11 @@
+.remove-pic{
+	margin: 10px;
+    display: inline-block;
+    position: relative;
+}
+.remove-pic .delete{
+	position: absolute;
+	top: -12px;
+	right: -12px;
+
+}
